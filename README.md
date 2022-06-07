@@ -1,81 +1,25 @@
-<img src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" align="right" width="250" height="350">
+<h1 align="center">Merhaba 👋, ben Yusuf Emre Karanfil</h1>
+<h3 align="center">Merhaba, ben Emre, Yönetim Bilişim Sistemleri 2. sınıf öğrencisiyim. Programlamaya ilgi duyuyorum ve kendimi bu yönde geliştiriyorum. C#, Java, Python, JavaScript, SQl gibi dillere iyi derecede hakimim ve mobil programlama konusunda kendimi geliştiriyorum. Flutter ve Kotlin öğreniyorum. 4 arkadaşla kurduğumuz TUNEX ekibinde yardımlaşarak ve ekip çalışması yaparak uygulamalar geliştiriyor ve kendimizi geliştirecek şeyler yapıyoruz.</h3>
 
-### Hi, Welcome To My Github Profile 👋 👋 👋
+<p align="left"> <img src="https:// komarev.com/ghpvc/?username=yekaranfil&label=Profile%20views&color=0e75b6&style=flat" alt="yekaranfil" /> </p>
 
-Backend Developer | Licence student
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app /?username=yekaranfil" alt="yekaranfil" /></a> </p>
 
- Hi, I'm Emre, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
+<p align="left"> <a href="https://twitter.com/darm4duman" target="blank"> <img src="https://img.shields.io/twitter/follow/darm4duman?logo=twitter&style=for-the-badge" alt="darm4duman" /></a> </p>
 
-<font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
-`  </font>
-### Reach out to me(Sosyal Medya Hesaplarım)
+<h3 align= "left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://twitter.com/darm4duman" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darm4duman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yekaranfil" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekaranfil" height="30" width="40" /></a>
+<a href="https:/ /instagram.com/emreekrnfl" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/instagram.svg" alt="emreekrnfl" height="30" width="40" /></a>
+<a href="https://discord.gg/T5q2bcKQN5" target="boş">< a img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="T5q2bcKQN5" height="30" width="40" /></a>
+< /p>
 
-[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][youtube]
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming .com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c " width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a > <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com /" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height= "40"/></a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon .svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a > <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> < a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height=" 40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href= "https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> < a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs- orijinal-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height=" 40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href= "https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg /xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com /apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="x genişlik="40" yükseklik="40"/> </a> </p>40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com /apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="x genişlik="40" yükseklik="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=" 40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=" 40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>yükseklik="40"/> </a> </p>yükseklik="40"/> </a> </p>
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][twitter]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yekaranfil&show_icons=true&locale=tr&layout=compact" alt="yekaranfil" /> </p>
 
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align=left />][linkedin]
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yekaranfil&show_icons=true&locale=en" alt="yekaranfil" /> </p>
 
-
-[<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align=left />][linkedin]
-
-
-
-
-[youtube]:https://www.youtube.com/channel/UCqgwnhEQFUSjCvJOaN-L6Kg
-[twitter]:https://twitter.com/darm4duman
-[linkedin]:https://www.linkedin.com/in/yekaranfil/
-[instagram]:https://www.instagram.com/emreekrnfl/
-
-<br/>
-<br/>
-
-
-### Tech I use (Kullandığım teknolojiler)
-
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="25">
-<img align="left" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="25">
-
-
-
-<br/>
-
-
-### Coming soon (Çok yakında)
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="35" height="25">
-<img align="left" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" width="35" height="25">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35" height="25">
-<br/>
-<br/>
-
-
-
-<br/>
-
-
-
-<summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
-
-<img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
-
-
-
-
-
-<summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&" alt="yekaranfil" /></p>
