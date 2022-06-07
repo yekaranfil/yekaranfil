@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" align="right" width="250" height="350">
+
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 Backend Developer | Licence student
@@ -58,14 +60,16 @@ Backend Developer | Licence student
 <br/>
 <br/>
 
-
+## Latest blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <br/>
 
 
 
-<summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
+<summary> :bulb: My Github Stats </summary>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
 
@@ -73,7 +77,7 @@ Backend Developer | Licence student
 
 
 
-<summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
+<summary> :bulb: Most Used Languages </summary>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
 
