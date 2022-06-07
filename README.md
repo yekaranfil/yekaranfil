@@ -8,7 +8,7 @@ Backend Developer | Licence student
 
 <font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
 `  </font>
-### Reach out to me
+### Reach out to me(Sosyal Medya Hesaplarım)
 
 [<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][youtube]
 
@@ -60,16 +60,13 @@ Backend Developer | Licence student
 <br/>
 <br/>
 
-## Latest blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 <br/>
 
 
 
-<summary> :bulb: My Github Stats </summary>
+<summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
 
@@ -77,7 +74,7 @@ Backend Developer | Licence student
 
 
 
-<summary> :bulb: Most Used Languages </summary>
+<summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
 
