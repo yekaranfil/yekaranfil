@@ -1,4 +1,4 @@
-<img src="[https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif](https://media.discordapp.net/attachments/857714045251878972/934757095348260904/a_8f7d69b08502d56d3c6fa6841b5349db.gif)" align="right" width="500" height="200">
+<img src="https://media.discordapp.net/attachments/857714045251878972/934757095348260904/a_8f7d69b08502d56d3c6fa6841b5349db.gif" align="right" width="500" height="200">
 <h1 align="center">Hi 👋, I'm Yusuf Emre Karanfil</h1>
 <h3 align="center">Hi, I'm Emre, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.</h3>
 
