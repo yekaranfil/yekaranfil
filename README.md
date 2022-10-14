@@ -1,6 +1,6 @@
-<img src="https://media.tenor.com/4ehBI_jmjr8AAAAd/bravo-six-going-dark-captain-price.gif" align="right" width="540" height="358">
+<img src="https://media.tenor.com/4ehBI_jmjr8AAAAd/bravo-six-going-dark-captain-price.gif" align="right" width="500" height="300">
 <h1 align="center">Hi 👋, I'm Yusuf Emre Karanfil</h1>
-<h3 align="left">Hi, I'm Emre, a 2nd year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.</h3>
+<h3 align="left">Hi, I'm Emre, a 3th year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl, and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yekaranfil&label=Profile%20views&color=0e75b6&style=flat" alt="yekaranfil" /> </p>
 
