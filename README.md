@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yekaranfil&label=Profile%20views&color=0e75b6&style=flat" alt="yekaranfil" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yekaranfil" alt="yekaranfil" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yekaranfil&theme=darkhub" alt="yekaranfil" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/darm4duman" target="blank"><img src="https://img.shields.io/twitter/follow/darm4duman?logo=twitter&style=for-the-badge" alt="darm4duman" /></a> </p>
 
