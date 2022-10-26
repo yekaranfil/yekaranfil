@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> </p> 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yekaranfil&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="yekaranfil" width="420" />
-<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=vision-friendly-dark&show_icons=true&locale=en" alt="yekaranfil" width="500" />
+<p align="center"> <img  src="https://mbbahar-github-readme-stats.vercel.app/api?username=yekaranfil&show_icons=true&theme=dark&hide_border=1&count_private=true" alt="yekaranfil" width="500" />
 
 <p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=highcontrast&" alt="yekaranfil"  width="500" /> 
 
