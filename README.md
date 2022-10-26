@@ -35,7 +35,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yekaranfil&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="yekaranfil" width="420" />
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true&locale=en" alt="yekaranfil" width="500" />
 
-<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=great-gatsby&" alt="yekaranfil"  width="500" /> 
+<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=highcontrast&" alt="yekaranfil"  width="500" /> 
 
 
 
