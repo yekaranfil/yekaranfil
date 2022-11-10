@@ -1,6 +1,32 @@
-<img src="https://i.hizliresim.com/th5yr0p.gif" align="right" width="540" height="300">
+
+
+
 <h1 align="center">Hi 👋, I'm Yusuf Emre Karanfil</h1>
-<h3 align="left">Hi, I'm Emre, a 3th year student at the Department of Management Information Systems. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Java, Python, JavaScript, SQl and I'm improving myself in mobile programming. I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.</h3>
+
+```javascript
+export function ComputerEngineer() {
+    const me = {
+    name: "Yusuf Emre Karanfil",
+    role: "Back-End Developer",
+    code: ["JavaScript", "SQL", "Dart", "Java", "Python", "HTML-CSS", "C#"],
+    knowledge_base: [
+      "Software Engineering",
+      "Mobile Programming",
+      "Web Programming",
+    ],
+  };
+const say_hi = (me) => {
+    console.log(`Hi, I'm Emre, a 3th year student at the Department of Management Information Systems. 
+    I'm interested in programming and I'm improving myself in this direction. 
+    I have a good command of languages such as C#, Java, Python, JavaScript, SQl and I'm improving myself in mobile programming. 
+    I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping 
+    and teamwork, and we do things that will improve ourselves.);
+  };
+
+
+  say_hi(me);
+
+```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yekaranfil&label=Profile%20views&color=0e75b6&style=flat" alt="yekaranfil" /> </p>
 
