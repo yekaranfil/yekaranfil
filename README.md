@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Emre Karanfil</h1>
 
 ```javascript
-export function ComputerEngineer() {
+export function SoftwareDeveloper() {
     const me = {
     name: "Yusuf Emre Karanfil",
     role: "Back-End Developer",
