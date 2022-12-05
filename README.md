@@ -20,7 +20,7 @@ const say_hi = (me) => {
     I'm interested in programming and I'm improving myself in this direction. 
     I have a good command of languages such as C#, Java, Python, JavaScript, SQl and I'm improving myself in mobile programming. 
     I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping 
-    and teamwork, and we do things that will improve ourselves.);
+    and teamwork, and we do things that will improve ourselves.`);
   };
 
 
