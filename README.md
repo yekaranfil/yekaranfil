@@ -8,7 +8,7 @@ export function SoftwareDeveloper() {
     const me = {
     name: "Yusuf Emre Karanfil",
     role: "Back-End Developer",
-    code: ["JavaScript", "SQL", "Dart", "Java", "Python", "HTML-CSS", "C#"],
+    code: ["JavaScript", "SQL", "Dart", "Java", "Python", "Scala", "C#"],
     knowledge_base: [
       "Software Engineering",
       "Mobile Programming",
@@ -16,11 +16,10 @@ export function SoftwareDeveloper() {
     ],
   };
 const say_hi = (me) => {
-    console.log(`Hi, I'm Emre, a 3th year student at the Department of Management Information Systems. 
-    I'm interested in programming and I'm improving myself in this direction. 
-    I have a good command of languages such as C#, Java, Python, JavaScript, SQl and I'm improving myself in mobile programming. 
-    I'm learning Flutter and Kotlin. In the TUNEX team, which we established with 4 friends, we develop applications by helping 
-    and teamwork, and we do things that will improve ourselves.`);
+    console.log(`Hi, I'm Emre. I graduated from the Management Information Systems Department.
+I have a keen interest in programming and I am actively developing myself in this direction.
+I work as a backend developer. I am proficient in languages such as Java, Kotlin, Scala, Python, JavaScript, C#, and SQL,
+and I am also improving my skills in mobile programming. I'm learning Flutter. Along with 3 teammates, we develop applications as the DilekSoft team. Through this, I have gained experience in teamwork, leadership, and working under stress.`);
   };
 
 
@@ -58,10 +57,12 @@ const say_hi = (me) => {
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> </p> 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yekaranfil&theme=vision-friendly-dark&hide_border=1&show_icons=true&locale=en&layout=compact" alt="yekaranfil" width="420" />
-<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" alt="yekaranfil" width="500" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yekaranfil" width="420" />
+    
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="yekaranfil" width="500" />
 
-<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=dark&hide_border=1&count_private=true" alt="yekaranfil"  width="500" /> 
+<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=tokyonight&hide_border=true" alt="yekaranfil"  width="500" /> 
+
 
 
 
