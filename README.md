@@ -8,10 +8,10 @@ export function SoftwareDeveloper() {
     const me = {
     name: "Yusuf Emre Karanfil",
     role: "Back-End Developer",
-    code: ["JavaScript", "SQL", "Dart", "Java", "Python", "Scala", "C#"],
+    code: ["JavaScript", "Java", "Sql", "Kotlin", "Python", "Scala", "C#"],
     knowledge_base: [
       "Software Engineering",
-      "Mobile Programming",
+      "Devops Engineering",
       "Web Programming",
     ],
   };
