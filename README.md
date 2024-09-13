@@ -16,7 +16,8 @@ export function SoftwareDeveloper() {
     ],
   };
 const say_hi = (me) => {
-    console.log(`Hi, I’m Emre, a backend developer with a degree in Management Information Systems. I’m proficient in Java, Kotlin, Scala, Python, JavaScript, C#, and SQL. I’m also expanding my skills in mobile development with Flutter. As part of the DilekSoft team, I’ve gained valuable experience in teamwork, leadership, and managing stress.`);
+    console.log(`Hi, I’m Emre, a backend developer with a degree in Management Information Systems. I’m proficient in Java, Kotlin, Scala, Python, JavaScript, 
+    C#, and SQL. I’m also expanding my skills in mobile development with Flutter. As part of the DilekSoft team, I’ve gained valuable experience in teamwork, leadership, and managing stress.`);
   };
   say_hi(me);
 
@@ -27,6 +28,8 @@ const say_hi = (me) => {
     <img src="https://visitcount.itsvg.in/api?id=yekaranfil&icon=7&color=0" alt="Visit Count">
   </a>
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yekaranfil&column=-1&theme=darkhub" alt="yekaranfil" width="">
 
 <div align="center">
   <h2>🌐 Socials:</h2>
@@ -43,6 +46,7 @@ const say_hi = (me) => {
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 </div>
 
+
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)" alt="yekaranfil" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)" alt="yekaranfil" width="400" />
@@ -52,6 +56,10 @@ const say_hi = (me) => {
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yekaranfil" width="420" />
 </div>
+
+
+
+
 
 <div align="center" style="text-align: center;">
   <h3>✍️</h3>
