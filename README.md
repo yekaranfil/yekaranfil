@@ -28,7 +28,7 @@ const say_hi = (me) => {
   </a>
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://instagram.com/emreekrnfl"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/yekaranfil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -43,17 +43,17 @@ const say_hi = (me) => {
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yekaranfil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)" alt="yekaranfil" width="400" />
   <img src="https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)" alt="yekaranfil" width="400" />
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
+<div align="center" style="text-align: center; margin-top: 10px;">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yekaranfil" width="420" />
 </div>
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
   <h3>✍️</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
 </div>
