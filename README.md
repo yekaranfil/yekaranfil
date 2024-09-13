@@ -22,11 +22,11 @@ const say_hi = (me) => {
 
 ```
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=yekaranfil&icon=7&color=0" alt="Visit Count">
   </a>
-</div>
+</p>
 
 <div style="text-align: center;">
   <h2>🌐 Socials:</h2>
